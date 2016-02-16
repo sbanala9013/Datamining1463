@@ -3,7 +3,7 @@ E-commerce websites often ask their customers to review the products that they s
  (1) Mining the product features that are commented by the customers.
 (2) Identifying the opinion sentences of the customers in all the reviews and telling whether each opinion sentence is either positive or negative.
 (3) Summarizing these results.
-       This project proposes several novel techniques to perform these tasks. The experimental results using reviews of a number of products sold online demonstrate the effectiveness of the techniques.
+ This project proposes several novel techniques to perform these tasks. The experimental results using reviews of a number of products sold online demonstrate the effectiveness of the techniques.
 
 #Overview: 
 Here we will be be doing analysis on people’s opinions about the products. The reviews will be either positive or negative opinions. These reviews will be useful for business analysts to have an idea about their products which is like a feedback. 
