@@ -34,11 +34,11 @@ We are using Java for coding.
 Till now we have been gathering the reviews, we are working out to find the best algorithm which is suitable for our project. Both Yasmeen and Mounica are involved in gathering the datasets. API is different from gathering information. We have updated the roles in team role table.
 
 #Check Points:
-Check points date	Expected Deliverable	Responsible Team Member	Checkpoint Result
-02/15/2016	Project Proposal.	Yasmeen Kowsar Shaik	Submission of Group Project Proposal
-03/08/2016	Collection of datasets.	Mounica, SiriChandhana	Collection of data from data source
-03/20/2016	Classification of datasets.	Mohammed Shakeer, Javeed 	Classifying the reviews in to positive and negative.
-04/15/2016	Code development.	Javeed Shaik, Yasmeen Kowsar Shaik	Developing the code for analysis
+| Check points | date	Expected Deliverable	| Responsible Team Member	| Checkpoint Result |
+| 02/15/2016 |	Project Proposal |	Yasmeen Kowsar Shaik	| Submission of Group Project Proposal |
+03/08/2016	Collection of datasets	Mounica, SiriChandhana	Collection of data from data source
+03/20/2016	Classification of datasets	Mohammed Shakeer, Javeed 	Classifying the reviews in to positive and negative.
+04/15/2016	Code development	Javeed Shaik, Yasmeen Kowsar Shaik	Developing the code for analysis
 04/20/2016	Testing	Mohammed Shakeer Bandrevu	Testing the code
 04/30/2016	Reporting	SiriChandhana,      Mounica	Reporting the final project
 
