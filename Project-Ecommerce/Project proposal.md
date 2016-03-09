@@ -11,8 +11,8 @@ Here we will be be doing analysis on people’s opinions about the products. The
 #DATASET: 
 The datasets for this analysis will be the reviews given by the customers regarding the products. The reviews can be either positive or negative depending upon the customers opinions.
 #PROJECT MANAGEMENT
-| TEAM MEMBER | ROLE | CONTRIBUTIONS |
-|-------------------|----------------------|------------------------|
+| TEAM MEMBER | ROLES AND SKILLS | CONTRIBUTION | 
+|-------------|------------------|-------------------------------------------|
 |Yasmeen Kowsar Shaik|API Development|Derive the reviews from different API|
 |Mounica Poreddy|Gathering the information regarding the project|Gathering information from various sources|
 |SiriChandhana Banala|Reporting the Result|Reporting about the final result|
@@ -35,12 +35,13 @@ Till now we have been gathering the reviews, we are working out to find the best
 
 #Check Points:
 | Check points | date	Expected Deliverable	| Responsible Team Member	| Checkpoint Result |
+|---------------------|----------|-----------------|------------|
 | 02/15/2016 |	Project Proposal |	Yasmeen Kowsar Shaik	| Submission of Group Project Proposal |
-03/08/2016	Collection of datasets	Mounica, SiriChandhana	Collection of data from data source
-03/20/2016	Classification of datasets	Mohammed Shakeer, Javeed 	Classifying the reviews in to positive and negative.
-04/15/2016	Code development	Javeed Shaik, Yasmeen Kowsar Shaik	Developing the code for analysis
-04/20/2016	Testing	Mohammed Shakeer Bandrevu	Testing the code
-04/30/2016	Reporting	SiriChandhana,      Mounica	Reporting the final project
+|03/08/2016	|Collection of datasets	|Mounica, SiriChandhana	|Collection of data from data source|
+|03/20/2016	|Classification of datasets|	Mohammed Shakeer, Javeed 	|Classifying the reviews in to positive and negative.|
+|04/15/2016	|Code development	|Javeed Shaik, Yasmeen Kowsar Shaik	|Developing the code for analysis|
+|04/20/2016	|Testing	Mohammed Shakeer Bandrevu	|Testing the code|
+|04/30/2016	|Reporting	SiriChandhana,      Mounica	|Reporting the final project|
 
 
 
