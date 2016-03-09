@@ -27,7 +27,8 @@ We are collecting the reviews from Outwit, a tool which explores the depths of t
 #Algorithm: 
 We are working on finding the best suitable algorithm. We will let you know in next checkpoint.
 
-#Language:We are using Java for coding.
+#Language:
+We are using Java for coding.
 
 #Updation: 
 Till now we have been gathering the reviews, we are working out to find the best algorithm which is suitable for our project. Both Yasmeen and Mounica are involved in gathering the datasets. API is different from gathering information. We have updated the roles in team role table.
