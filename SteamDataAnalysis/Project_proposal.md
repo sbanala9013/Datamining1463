@@ -13,11 +13,11 @@ Once we had the data, all that remained was to train and test the data using wek
 #PROJECT MANAGEMENT
 | TEAM MEMBER | ROLES AND SKILLS | CONTRIBUTION | 
 |-------------|------------------|-------------------------------------------|
-|Mounica Poreddy|999991539|Data collection and API deleopment|Development of data sets and input data|
-|Mohammed Shakeer Bandrevu|999991619|Weka development|Usage of WEKA in process of development the project|
+|Mounica Poreddy(999991539)|Data collection and API deleopment|Development of data sets and input data|
+|Mohammed Shakeer Bandrevu(999991619)|Weka development|Usage of WEKA in process of development the project|
 |Javeed Shaik|Coding|Development of prediction process|
-|Yasmeen Kowsar Shaik|999991463|Testing|Testing the reviews and code|
-|SiriChandhana|999991460|Reeporting|Final reporting|
+|Yasmeen Kowsar Shaik(999991463)|Testing the reviews and code|
+|SiriChandhana(999991460)|Reeporting|Final reporting|
 
 
 #Check Points:
