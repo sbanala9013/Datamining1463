@@ -27,5 +27,5 @@ Once we had the data, all that remained was to train and test the data using wek
 |03/08/2016	|Collection of datasets	|Mounica, SiriChandhana	|Collection of data from data source|
 |03/20/2016	|Classification of datasets|	Mohammed Shakeer, Javeed 	|Classifying the reviews in to positive and negative.|
 |04/15/2016	|Code development	|Javeed Shaik, Yasmeen Kowsar Shaik	|Developing the code for analysis|
-|04/20/2016	|Testing	Mohammed Shakeer Bandrevu	|Testing the code|
-|04/30/2016	|Reporting	SiriChandhana,      Mounica	|Reporting the final project|
+|04/20/2016	|Testing|	Mohammed Shakeer Bandrevu	|Testing the code|
+|04/30/2016	|Reporting|	SiriChandhana, Mounica	|Reporting the final project|
