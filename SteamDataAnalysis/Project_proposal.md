@@ -16,12 +16,12 @@ Once we had the data, all that remained was to train and test the data using wek
 |Mounica Poreddy(999991539) and Siri Chandhana(999991460)|Data collection and API development|Development of data sets and input data|
 |Mohammed Shakeer Bandrevu(999991619) and Javeed Shaik(999991512)|Weka development|Usage of WEKA in process of development of the project|
 |Javeed Shaik(999991512) and Yasmeen Kowsar Shaik(999991463)|Coding|Development of prediction process|
-|Yasmeen Kowsar Shaik(999991463) and Mohammed Shakeer Bandrevu(999991619)|Testing the data and code|
+|Yasmeen Kowsar Shaik(999991463) and Mohammed Shakeer Bandrevu(999991619)|Testing the data and code|Testing|
 |SiriChandhana(999991460) and Mounica Poreddy(999991539)|Reporting|Final reporting|
 
 
 #Check Points:
-| CHECK POINTS | DATE	EXPECTED DELIVERABLE	| RESPONSIBLE TEAM MEMBER	| CHECKPOINT RESULT |
+| DATE	EXPECTED DELIVERABLE	|ROLE| RESPONSIBLE TEAM MEMBER	| CHECKPOINT RESULT |
 |---------------------|----------|-----------------|------------|
 |03/22/2016 |	Project Proposal |Mohammed Shakeer Bandrevu	| Submission of Group Project Proposal |
 |03/28/2016	|Collection of datasets	|Mounica Poreddy, Siri Chandhana	|Collection of data from data source|
