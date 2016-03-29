@@ -21,7 +21,7 @@ Once we had the data, all that remained was to train and test the data using wek
 
 
 #CHECK POINTS:
-| DATE	EXPECTED DELIVERABLE	|ROLE| RESPONSIBLE TEAM MEMBER	| CHECKPOINT RESULT |
+|EXPECTED DELIVERABLE DATE|ROLE| RESPONSIBLE TEAM MEMBER	| CHECKPOINT RESULT |
 |---------------------|----------|-----------------|------------|
 |03/22/2016 |	Project Proposal |Mohammed Shakeer Bandrevu	| Submission of Group Project Proposal |
 |03/28/2016	|Collection of datasets	|Mounica Poreddy, Siri Chandhana	|Collection of data from data source|
