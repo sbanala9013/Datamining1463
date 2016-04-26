@@ -20,12 +20,11 @@ Once we had the data, all that remained was to train and test the data using wek
 |Siri Chandhana Banala(999991460) and Mounica Poreddy(999991539)|Reporting|Final reporting|
 
 
-#CHECK POINTS:
-|EXPECTED DELIVERABLE DATE|ROLE|RESPONSIBLE TEAM MEMBER| CHECKPOINT RESULT |
+#CHECK POINTS TILL DATE:
+|EXPECTED DELIVERABLE DATE|CONTRIBUTION|RESPONSIBLE TEAM MEMBER| CHECKPOINT RESULT |
 |-------------------------|----------|-----------------|-----------------|
 |03/22/2016 |Project Proposal|Mohammed Shakeer Bandrevu	| Submission of Group Project Proposal |
-|03/28/2016	|Collection of datasets	|Mounica Poreddy, Siri Chandhana Banala	|Collection of data from data source|
-|04/10/2016	|Training and Testing the data|	Mohammed Shakeer, Javeed Shaik 	|Applying the Algorithm to train the data|
+|04/11/2016	|Collection of datasets	|Mounica Poreddy, Siri Chandhana Banala	|Collection of data from data source|
+|04/18/2016	|Selecting Algorithm, Training the machine, and Testing|	Javeed Shaik, Yasmeed Kowsar Shaik, Mohammed Shakeer Bandrevu	|J48 Algorithm Selected to run the code.|
 |04/15/2016	|Code development	|Javeed Shaik, Yasmeen Kowsar Shaik|Developing the code for analysis|
-|04/20/2016	|Testing|Yasmeen Kowsar Shaik,Mohammed Shakeer Bandrevu|Testing the code|
-|04/30/2016	|Reporting|	Siri Chandhana Banala, Mounica Poreddy|Reporting the final project|
+
